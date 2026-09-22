@@ -1,29 +1,78 @@
-# Welcome to your Lovable project
+Saaketh Chenna — Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+Personal portfolio website showcasing my background, experience, projects, technical skills, and professional interests across technology, business, analytics, and project management.
 
-## Build with Lovable
+Overview
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+This portfolio brings together my experience in computer science, technology management, consulting, business development, and project management. It highlights selected academic and professional projects while providing an overview of my skills and career interests.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+The website is designed to give recruiters, hiring managers, and collaborators a quick view of my experience and the work I have contributed to.
 
-## Development
+Featured Areas
+About Me — Background, education, and professional interests
+Experience — Professional and project-based experience
+Projects — Selected technical, academic, consulting, and business projects
+Skills — Programming languages, technologies, analytics, and business tools
+Resume — Current resume and professional experience
+Contact — Ways to connect with me
+Selected Projects
+AI Rubik's Cube Solver
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Computer vision and algorithmic solving project using Python and OpenCV to recognize a Rubik's Cube and generate a solution.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+Technologies: Python, OpenCV, Kociemba Algorithm
+
+AiMS Institute — Go-to-Market & Positioning
+
+Consulting project focused on market positioning, ideal customer profiling, competitive analysis, and go-to-market strategy for an AI-enabled leadership platform.
+
+Focus: Strategy, market research, competitive analysis, positioning, GTM
+
+Cardio Study
+
+Business development work within a digital healthcare company focused on market opportunities, suppliers, competitors, and new product initiatives.
+
+Focus: Healthcare technology, business development, market research, growth strategy
+
+Technical Skills
+
+Languages:
+Python, Java, C++, JavaScript, SQL
+
+Technologies & Frameworks:
+React, Node.js, OpenCV, MongoDB, Elasticsearch
+
+Business & Analytics:
+Power BI, Excel, SAP, Oracle ERP, ServiceNow
+
+Areas of Interest:
+Project Management, Product Management, Business Development, Technology Consulting, Analytics, Technology Strategy
+
+Education
+
+Western University
+
+Bachelor of Science in Computer Science
+Master of Management of Applied Science (MMASc)
+
+My academic background combines computer science with technology management, analytics, project management, consulting, and applied business problem-solving.
+
+Getting Started
+
+To run the portfolio locally:
+
+git clone <repository-url>
+cd <repository-folder>
+
+Open the project in your preferred development environment and follow the project's setup instructions.
+
+If the website uses a development server, install the required dependencies and start the application:
+
+npm install
 npm run dev
-```
 
-## Built with
+The exact commands may vary depending on the project's implementation.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+Deployment
+
+The portfolio can be deployed using platforms such as GitHub Pages, Vercel, or Netlify depending on the project's technology stack.
